@@ -1,0 +1,17 @@
+export enum EChartsType {
+  CARD = "card",
+  PIE = "pie",
+  DOUGHNUT = "doughnut",
+  LINE = "line",
+  WATERFALL = "waterfall",
+  CLUSTERED_COLUMN = "clustered_column",
+  CLUSTERED_BAR = "clustered_bar",
+  STACKED_COLUMN = "stacked_column",
+  STACKED_BAR = "stacked_bar",
+  LINE_STACKED_COLUMN = "line_stacked_column",
+  LINE_CLUSTERED_COLUMN = "line_clustered_column",
+  TABLE = "table",
+  FUNNEL = "funnel",
+  AREA = "area",
+  PERCENTAGE_STACKED_AREA = "percentage_stacked_area",
+}
